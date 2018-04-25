@@ -9,7 +9,9 @@ hogehoge
 
 # hogehoge
 
-強調 　 __hogehoge__
+_2回で囲むと強調 　
+
+__hogehoge__
 
 
 -を3つで区切り線 
