@@ -1,5 +1,5 @@
 # program_newbe
-段落
+エンター2回で段落
 
 hogehoge
 
