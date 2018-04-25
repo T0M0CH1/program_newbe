@@ -5,7 +5,7 @@ hogehoge
 
 hogehoge
 
-見出し　
+#で見出し　
 
 # hogehoge
 
@@ -15,7 +15,7 @@ hogehoge
 -を3つで区切り線 
 ---
 
-リスト
+*でリスト
 
 * hogehoge
 * hogehoge
@@ -23,10 +23,12 @@ hogehoge
 
 ソースコード　'hogehoge'
 
-引用
+>で引用
 
 >http://hogehoge
+
 >http://hogehoge
+
 >http://hogehoge
 
 
