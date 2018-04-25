@@ -5,27 +5,29 @@ hogehoge
 
 hogehoge
 
-見出し　# hogehoge
+見出し　
+
+# hogehoge
 
 強調 　 __hogehoge__
 
-区切り線 
 
+-を3つで区切り線 
 ---
 
 リスト
 
-*hogehoge
-*hogehoge
-*hogehoge
+* hogehoge
+* hogehoge
+* hogehoge
 
 ソースコード　'hogehoge'
 
 引用
 
->hogehoge
->hogehoge
->hogehoge
+>http://hogehoge
+>http://hogehoge
+>http://hogehoge
 
 
 
