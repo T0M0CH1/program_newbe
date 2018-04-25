@@ -5,11 +5,13 @@ hogehoge
 
 hogehoge
 
-見出し　#hogehoge
+見出し　# hogehoge
 
-強調 　 _hogehoge_
+強調 　 __hogehoge__
 
-区切り線 hoge--hoge
+区切り線 
+
+---
 
 リスト
 
